@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AwesomeDevEvents.API.props" />
+</Project>
